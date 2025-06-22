@@ -1,12 +1,124 @@
 {
-"login":[
-  {
-    "email":"suman@gmail.com",
-    "password":"suman@123"
-  },
-  {
-    "email":"suman@gmail.com",
-    "password":"suman@123"
-  }
-]
+  "appointments": [
+    {
+      "id": "1",
+      "patient_name": "sana",
+      "doctor_name": "dev",
+      "symptoms": "fever",
+      "appointment_date_time": "12-06-2025 12:30PM",
+      "status": ""
+    },
+    {
+      "id": "1",
+      "patient_name": "ajit",
+      "doctor_name": "rahul",
+      "symptoms": "fever",
+      "appointment_date_time": "12-06-2025 12:30PM",
+      "status": ""
+    },
+    {
+      "id": "603af1b2-5194-408f-82e9-7f10e4eceed9",
+      "patient_name": "",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "dee6efc2-7724-447e-a816-f04f6309b395",
+      "patient_name": "",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "8066c4a4-763d-4415-bad4-9bb4d7c2b954",
+      "patient_name": "",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "f7edb6f5-7990-46c0-9457-cff4ce40f6a9",
+      "patient_name": "",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "534514d1-fa16-4789-8862-735170b4c4e5",
+      "patient_name": "sssss",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "8ea505ea-f47b-4fbf-b822-073bd2ebba5b",
+      "patient_name": "sssss",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "64487223-3b3d-4c87-a48f-1bbbf500aa63",
+      "patient_name": "sssss",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "id": "31513ec2-33bd-43d2-96f1-2223b9b654c6",
+      "patient_name": "rahul",
+      "doctor_name": "Dr. Smith",
+      "symptoms": "fever",
+      "appointment_date_time": "2025-06-21T01:19",
+      "status": "pending"
+    },
+    {
+      "id": "6918c5b1-f292-455b-aa6f-ab852789de83",
+      "patient_name": "rahul",
+      "doctor_name": "Dr. Smith",
+      "symptoms": "diabatis",
+      "appointment_date_time": "2025-06-21T01:19",
+      "status": "pending"
+    },
+    {
+      "id": "a59b4824-9240-4d55-9d3e-21b2576b6d31",
+      "patient_name": "ajju",
+      "doctor_name": "Dr. Smith",
+      "symptoms": "fever",
+      "appointment_date_time": "2025-06-13T01:44",
+      "status": "pending"
+    },
+    {
+      "id": "e4c95628-75dd-4976-b9bc-0082780cf790",
+      "patient_name": "Dr. Smith",
+      "doctor_name": "",
+      "symptoms": "",
+      "appointment_date_time": "",
+      "status": "pending"
+    },
+    {
+      "patient_name": "kanya",
+      "doctor_name": "john",
+      "symptoms": "fever",
+      "appointment_date_time": "2025-06-26T03:55",
+      "status": "approved",
+      "id": "98a46e7f-3b14-4b44-86d8-21a1fb32accd"
+    },
+    {
+      "patient_name": "kanya",
+      "doctor_name": "john",
+      "symptoms": "fever",
+      "appointment_date_time": "",
+      "status": "approved",
+      "id": "c6c73bff-004c-42c3-bd7d-60be8a01f763"
+    }
+  ]
 }
